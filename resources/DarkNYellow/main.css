@@ -2,11 +2,11 @@
   --main-bg-color: #282a36 !important;
   --secondary-bg-color: #242631 !important;
   --secondary-bg-color-alt: #20222c !important;
-  --accent-color: #87F080 !important;
-  --accent-secondary-color: #87F080 !important;
+  --accent-color: #00fbff !important;
+  --accent-secondary-color: #00fbff !important;
   --text-color: #fafafa !important;
   --border-radius: 4px !important;
-  --accent-light: #87F080 !important;
+  --accent-light: #00fbff !important;
 }
 
 /* Changes Background */
