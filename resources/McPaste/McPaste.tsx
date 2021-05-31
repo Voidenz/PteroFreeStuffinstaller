@@ -89,7 +89,7 @@ export default () => {
         <div css={tw`shadow-md bg-neutral-700 rounded p-3 flex text-xs mt-4 justify-center`}>
             <Button
                 size={'xsmall'}
-                color={'grey'}
+                color={'#20222c'}
                 isSecondary
                 css={tw`mr-2`}
                 disabled={uploading}
@@ -97,7 +97,7 @@ export default () => {
                     mcPaste()
                 }}
             >
-                Send to McPaste.com
+                Send to McPaste.io
             </Button>
             <SwitchTransition>
                 <Fade timeout={250} key={copied !== false ? 'visible' : 'invisible'}>
