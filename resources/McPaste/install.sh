@@ -10,4 +10,4 @@ yarn install
 yarn run build:production
 clear
 php /var/www/pterodactyl/artisan up
-echo "McPaste Installed"
+echo "McPaste is pog and installed"
